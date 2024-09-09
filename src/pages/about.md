@@ -3,11 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-* I am a front-end engineer, and I love front-end development.
-* I enjoy experimenting, trying new things, and learning new knowledge.
-* I don’t like trendy tech environments or discussions about which programming language or framework is better.
-* I pursue long-termism, simplicity, and efficiency.
-
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
