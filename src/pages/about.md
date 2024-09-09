@@ -3,10 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-* 我是一名前端工程师，我爱前端开发。
-* 瞎折腾，尝试新事物，学习新知识。
-* 不喜欢网红技术环境，不喜欢讨论哪种编程语言和框架好。
-* 追求长期主义，追求简单，追求效率。
+* I am a front-end engineer, and I love front-end development.
+* I enjoy experimenting, trying new things, and learning new knowledge.
+* I don’t like trendy tech environments or discussions about which programming language or framework is better.
+* I pursue long-termism, simplicity, and efficiency.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -14,14 +14,14 @@ title: "About"
 
 ## Tech Stack
 
-* 前端：Vue, React, TypeScript, TailwindCSS, Vite
-* 后端：Java, Spring Boot, MySQL, Redis
-* 运维：Docker, Nginx, CI/CD流水线
-* 设计：Figma
+* Frontend: Vue, React, TypeScript, TailwindCSS, Vite
+* Backend: Java, Spring Boot, MySQL, Redis
+* DevOps: Docker, Nginx, CI/CD pipeline
+* Design: Figma
 
 ## Contact
 
-- **微信**: haikelei
-- **邮箱**: lujialei08@gmail.com
-- **Github**: [链接](https://github.com/haikelei)
-- **LinkedIn**: [链接](https://www.linkedin.com/in/gary-lu08/)
+- **WeChat**: haikelei
+- **Email**: lujialei08@gmail.com
+- **Github**: [haikelei](https://github.com/haikelei)
+- **LinkedIn**: [gary-lu08](https://www.linkedin.com/in/gary-lu08/)

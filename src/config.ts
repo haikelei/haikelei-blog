@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://haikelei.dev/", // replace this with your deployed domain
   author: "Gary Lu",
   desc: "Gary Lu's personal blog, sharing front-end development, web design, and other interesting things",
-  title: "haikelei的博客",
+  title: "Haikelei's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: false,
   postPerPage: 6,
