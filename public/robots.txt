@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haikelei.com/sitemap-index.xml
