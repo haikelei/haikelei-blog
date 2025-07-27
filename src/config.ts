@@ -8,12 +8,12 @@ export const SITE: Site = {
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: false,
   postPerPage: 6,
-  scheduledPostMargin: 15 * 60 * 1000
+  scheduledPostMargin: 15 * 60 * 1000,
 };
 
 export const LOCALE = {
-  lang: "zh",
-  langTag: ["zh-CN"],
+  lang: "en",
+  langTag: ["en-US"],
 } as const;
 
 export const LOGO_IMAGE = {
