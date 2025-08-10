@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fetch__imageFetch",
+      "Bash(npm run build:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:guide.pseudoyu.com)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(curl:*)",
+      "mcp__browser__browser_navigate",
+      "mcp__browser__browser_get_markdown"
+    ],
+    "deny": []
+  }
+}
